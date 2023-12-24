@@ -4,8 +4,8 @@
 - I am interested in **Backend web development**
 - I am currently **working** as a **Django developer**
 - I hold a Bachelor's degree in **Computer Science and Engineering** from **Faculty of Electronic Engineering, Menoufia University**
-- You can reach me via **[Linkedin](https://www.linkedin.com/in/mustafaahassan/)**
-
+- You can reach me via **<a href="mailto:developer.mustafa@outlook.com">email</a>**
+<p align="left"><i>"I’m happy to share what I can, because I’m in it for the love of programming." - John Carmack</i></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
